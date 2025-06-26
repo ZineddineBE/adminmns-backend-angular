@@ -76,7 +76,7 @@ CREATE TABLE IF NOT EXISTS `retard` (
 INSERT INTO `retard` (`retard_id`, `retard_date`, `retard_heure_arrivee`, `retard_statut`, `retard_motif`, `retard_date_declaration`, `utilisateur_id`) VALUES
 (1, '2025-05-05', '08:43', 0, 'Transport', '2025-05-05', 3),
 (2, '2025-06-26', '08:52', 0, 'Panne réveil', '2025-06-26', 3),
-(4, '1998-10-03', '10:25', 0, 'Naissance', '2025-06-26', 4);
+(4, '2025-06-28', '10:25', 0, 'RDV médical', '2025-06-28', 4);
 
 -- --------------------------------------------------------
 
